@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <32blit.hpp>
-#include <malloc.h>
 #include "assets.hpp"
 
 using namespace blit;
